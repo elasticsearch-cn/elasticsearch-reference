@@ -1,7 +1,7 @@
 [[getting-started]]
 = Getting Started
 
-译者：http://medcl.net[Medcl]
+译者：http://medcl.net[Medcl] http://google.com[Google^, role="external"]
 
 [partintro]
 --
